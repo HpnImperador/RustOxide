@@ -1,0 +1,15 @@
+{
+  "DisableFriendlyFire": false,
+  "EnableFriendChat": false,
+  "EnablePrivateChat": false,
+  "LimitFriendChatToMutualFriends": true,
+  "MaxFriends": 30,
+  "Rust": {
+    "ShareAutoTurrets": false,
+    "ShareCodeLocks": false
+  },
+  "SendAddedNotification": true,
+  "SendOfflineNotification": true,
+  "SendOnlineNotification": true,
+  "SendRemovedNotification": false
+}

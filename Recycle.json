@@ -1,0 +1,11 @@
+{
+  "Settings": {
+    "box": "assets/prefabs/deployable/woodenbox/woodbox_deployed.prefab",
+    "cooldownMinutes": 5,
+    "NPCIDs": [],
+    "NPCOnly": false,
+    "radiationMax": 1,
+    "refundRatio": 0.5
+  },
+  "VERSION": "2.0.7"
+}

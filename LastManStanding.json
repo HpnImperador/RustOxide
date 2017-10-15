@@ -1,0 +1,14 @@
+{
+  "EventSettings": {
+    "DefaultKit": "evento",
+    "DefaultSpawnfile": "lmsspawns",
+    "DefaultZoneID": "55659749",
+    "ShowScoreboard": true,
+    "TokensOnKill": 500,
+    "TokensOnWin": 5000,
+    "UseUINotifications": true
+  },
+  "GameSettings": {
+    "StartHealth": 100.0
+  }
+}

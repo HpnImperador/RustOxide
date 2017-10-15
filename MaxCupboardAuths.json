@@ -1,0 +1,8 @@
+{
+  "Settings": {
+    "Max Auths Allowed Per Cupboard": 15,
+    "Max Auths Allowed Per Player": 15,
+    "Monitor Auths Per Cupboard": true,
+    "Monitor Auths Per Player": true
+  }
+}

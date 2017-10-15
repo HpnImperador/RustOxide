@@ -1,0 +1,7 @@
+{
+  "Main": {
+    "Auto-broadcast interval": 30,
+    "Auto-mode": true,
+    "Auto-mode interval (min)": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "EventSettings": {
+    "DefaultSpawnfile": "ggspawns",
+    "DefaultWeaponSet": "default",
+    "DefaultZoneID": "ggzone",
+    "TokensOnKill": 1,
+    "TokensOnWin": 5
+  },
+  "GameSettings": {
+    "CloseEventOnStart": true,
+    "DisableDowngradeWeaponTimer": 5,
+    "DowngradeNotification": true,
+    "DowngradeWeapon": {
+      "ammo": 0,
+      "ammoType": null,
+      "amount": 1,
+      "container": "belt",
+      "contents": [],
+      "name": "Machete",
+      "shortname": "machete",
+      "skin": 0
+    },
+    "StartHealth": 100.0,
+    "UseDowngradeWeapon": true
+  }
+}

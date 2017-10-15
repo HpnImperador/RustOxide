@@ -1,0 +1,26 @@
+{
+  "1. Settings": {
+    "1. Quarry can gather oil": false,
+    "2. Pump jack can gather ores": false,
+    "3. Change gather rate of static pump jacks (at monuments)": true,
+    "4. Show 'missing permission' message": true
+  },
+  "2. Oil crate": {
+    "1. Chance in % (0.0 - 100.0)": 45.0,
+    "2. Depawn timer in seconds": 300.0,
+    "3. Only on dry biome": false
+  },
+  "3. Crude oil gather rate": {
+    "1. Minimum crude oil per low grade fuel": 0.525,
+    "2. Maximum crude oil per low grade fuel": 3.425
+  },
+  "4. Get pump jack": {
+    "1. Drop a free pump jack out of a oil crate": false,
+    "2. Craft via hit with a pickaxe": true,
+    "3. Resources to craft a pump jack": {
+      "gears": 15,
+      "metal.fragments": 1750,
+      "wood": 10000
+    }
+  }
+}

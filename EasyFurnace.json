@@ -1,0 +1,36 @@
+{
+  "Furnace": {
+    "HQMetal": {
+      "Ores": 3,
+      "Output": 1,
+      "Wood": 2
+    },
+    "Metal": {
+      "Ores": 4,
+      "Output": 1,
+      "Wood": 1
+    },
+    "Sulfur": {
+      "Ores": 4,
+      "Output": 1,
+      "Wood": 1
+    }
+  },
+  "LargeFurnace": {
+    "HQMetal": {
+      "Ores": 7,
+      "Output": 1,
+      "Wood": 10
+    },
+    "Metal": {
+      "Ores": 12,
+      "Output": 1,
+      "Wood": 5
+    },
+    "Sulfur": {
+      "Ores": 12,
+      "Output": 3,
+      "Wood": 3
+    }
+  }
+}

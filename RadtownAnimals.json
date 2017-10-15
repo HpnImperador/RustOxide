@@ -1,0 +1,127 @@
+{
+  "a_Options": {
+    "RespawnTimer": 15,
+    "SpawnSpread": 100.0,
+    "TotalMaximumAmount": 40
+  },
+  "Airfield": {
+    "AnimalCounts": {
+      "Bears": 0,
+      "Boars": 0,
+      "Chickens": 0,
+      "Horses": 0,
+      "Stags": 0,
+      "Wolfs": 0,
+      "Zombies": 0
+    },
+    "Enabled": false
+  },
+  "Lighthouses": {
+    "AnimalCounts": {
+      "Bears": 0,
+      "Boars": 0,
+      "Chickens": 0,
+      "Horses": 0,
+      "Stags": 0,
+      "Wolfs": 0,
+      "Zombies": 0
+    },
+    "Enabled": false
+  },
+  "MilitaryTunnels": {
+    "AnimalCounts": {
+      "Bears": 0,
+      "Boars": 0,
+      "Chickens": 0,
+      "Horses": 0,
+      "Stags": 0,
+      "Wolfs": 0,
+      "Zombies": 0
+    },
+    "Enabled": false
+  },
+  "Powerplant": {
+    "AnimalCounts": {
+      "Bears": 0,
+      "Boars": 0,
+      "Chickens": 0,
+      "Horses": 0,
+      "Stags": 0,
+      "Wolfs": 0,
+      "Zombies": 0
+    },
+    "Enabled": false
+  },
+  "Radtowns": {
+    "AnimalCounts": {
+      "Bears": 0,
+      "Boars": 0,
+      "Chickens": 0,
+      "Horses": 0,
+      "Stags": 0,
+      "Wolfs": 0,
+      "Zombies": 0
+    },
+    "Enabled": false
+  },
+  "Satellite": {
+    "AnimalCounts": {
+      "Bears": 0,
+      "Boars": 0,
+      "Chickens": 0,
+      "Horses": 0,
+      "Stags": 0,
+      "Wolfs": 0,
+      "Zombies": 0
+    },
+    "Enabled": false
+  },
+  "SphereTank": {
+    "AnimalCounts": {
+      "Bears": 0,
+      "Boars": 0,
+      "Chickens": 0,
+      "Horses": 0,
+      "Stags": 0,
+      "Wolfs": 0,
+      "Zombies": 0
+    },
+    "Enabled": false
+  },
+  "Trainyard": {
+    "AnimalCounts": {
+      "Bears": 0,
+      "Boars": 0,
+      "Chickens": 0,
+      "Horses": 0,
+      "Stags": 0,
+      "Wolfs": 0,
+      "Zombies": 0
+    },
+    "Enabled": false
+  },
+  "Warehouses": {
+    "AnimalCounts": {
+      "Bears": 0,
+      "Boars": 0,
+      "Chickens": 0,
+      "Horses": 0,
+      "Stags": 0,
+      "Wolfs": 0,
+      "Zombies": 0
+    },
+    "Enabled": false
+  },
+  "WaterTreatmentPlant": {
+    "AnimalCounts": {
+      "Bears": 0,
+      "Boars": 0,
+      "Chickens": 0,
+      "Horses": 0,
+      "Stags": 0,
+      "Wolfs": 0,
+      "Zombies": 0
+    },
+    "Enabled": false
+  }
+}

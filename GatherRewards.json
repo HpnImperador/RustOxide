@@ -1,0 +1,30 @@
+{
+  "Settings": {
+    "ChatEditCommand": "gatherrewards",
+    "ConsoleEditCommand": "gatherrewards",
+    "EditPermission": "gatherrewards.canedit",
+    "ShowMessagesOnKill": true,
+    "ShowMessagesOnGather": false,
+    "UseEconomics": true,
+    "UseServerRewards": false,
+    "PluginPrefix": "<color=cyan>[SALARIO]</color>",
+    "Rewards": {
+      "Bear": 1475.0,
+      "Boar": 625.0,
+      "Chicken": 175.0,
+      "Clan Member": -925.0,
+      "Horse": 925.0,
+      "Ore": 3.0,
+      "Player": 2520.0,
+      "Player's Friend": -925.0,
+      "Stag": 195.0,
+      "Stone": 3.0,
+      "Wolf": 825.0,
+      "Wood": 3.0,
+      "Bottest": 25.0,
+      "Npcplayertest": 25.0,
+      "Npcplayertesthtnapex": 25.0,
+      "Zombie": 25.0
+    }
+  }
+}

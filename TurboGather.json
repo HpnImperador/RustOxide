@@ -1,0 +1,32 @@
+{
+  "Options": {
+    "Active time": 1856.0,
+    "Active time ANIMAL": 1856.0,
+    "Active time VIP": 9856.0,
+    "Boost multiplier": 5.0,
+    "Boost multiplier ANIMAL": 5.0,
+    "Boost multiplier VIP": 5.0,
+    "Cooldown time": 6.0,
+    "Cooldown time VIP": 6.0
+  },
+  "Settings": {
+    "Activate Turbo on Animal Kill": false,
+    "Dispensers enabled": true,
+    "Effect Enabled": false,
+    "Enabled animals": [
+      "player",
+      "boar",
+      "horse",
+      "stag",
+      "chicken",
+      "wolf",
+      "bear"
+    ],
+    "GUI Enabled": true,
+    "GUI Max Anchor": "",
+    "GUI Min Anchor": "",
+    "Pickups enabled": true,
+    "Prefix Name": "[<color=#0080ff>TurboGather</color>]",
+    "Quarries enabled": true
+  }
+}

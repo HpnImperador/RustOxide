@@ -1,0 +1,30 @@
+{
+  "EnableInGameTime-Timer": true,
+  "EnableRealTime-Timer": false,
+  "EnableTimerOnce": false,
+  "EnableTimerRepeat": true,
+  "InGameTime-Timer": {
+    "10:00": "weather.clouds 0",
+	"10:00": "weather.rain 0",
+    "10:15": "weather.rain 0",
+	"10:15": "weather.clouds 0",
+	
+	
+    "15:00": "block.removeall"
+  },
+  "RealTime-Timer": {
+    "16:00:00": "weather.clouds  0"
+  },
+  "TimerOnce": {
+    "global.resetoncetimer": 241
+  },
+  "TimerRepeat": {
+  "weather.rain 0":5000,
+    "weather.fog  0":10320,
+	"weather.clouds  0":10330,
+	"block.removeall": 10400,
+	"server.save": 40500,
+	"say SERA REINICIADO EM 10 min":41000,
+	"global.restart":41300
+  }
+}

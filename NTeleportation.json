@@ -1,0 +1,91 @@
+{
+  "Settings": {
+    "ChatName": "<color=red>TP</color>: ",
+    "HomesEnabled": true,
+    "TPREnabled": true,
+    "TownEnabled": true,
+    "InterruptTPOnHurt": true,
+    "BlockedItems": {}
+  },
+  "Admin": {
+    "AnnounceTeleportToTarget": false,
+    "UseableByModerators": true,
+    "LocationRadius": 25,
+    "TeleportNearDefaultDistance": 30
+  },
+  "Home": {
+    "HomesLimit": 15,
+    "VIPHomesLimits": {
+      "nteleportation.vip": 190
+    },
+    "Cooldown": 15,
+    "Countdown": 5,
+    "DailyLimit": 90,
+    "VIPDailyLimits": {
+      "nteleportation.vip": 100
+    },
+    "VIPCooldowns": {
+      "nteleportation.vip": 1
+    },
+    "VIPCountdowns": {
+      "nteleportation.vip": 1
+    },
+    "LocationRadius": 25,
+    "ForceOnTopOfFoundation": true,
+    "CheckFoundationForOwner": false,
+    "UseFriends": true,
+    "UsableOutOfBuildingBlocked": false,
+    "UsableIntoBuildingBlocked": false,
+    "CupOwnerAllowOnBuildingBlocked": true,
+    "AllowIceberg": true,
+    "AllowCave": false,
+    "AllowCraft": false,
+    "AllowAboveFoundation": true,
+    "CheckValidOnList": false,
+    "Pay": 250
+  },
+  "TPR": {
+    "Cooldown": 15,
+    "Countdown": 5,
+    "DailyLimit": 50,
+    "VIPDailyLimits": {
+      "nteleportation.vip": 999
+    },
+    "VIPCooldowns": {
+      "nteleportation.vip": 1
+    },
+    "VIPCountdowns": {
+      "nteleportation.vip": 1
+    },
+    "RequestDuration": 30,
+    "BlockTPAOnCeiling": true,
+    "UsableOutOfBuildingBlocked": false,
+    "UsableIntoBuildingBlocked": false,
+    "CupOwnerAllowOnBuildingBlocked": true,
+    "AllowCraft": false,
+    "Pay": 0
+  },
+  "Town": {
+    "Cooldown": 15,
+    "Countdown": 5,
+    "DailyLimit": 50,
+    "VIPDailyLimits": {
+      "nteleportation.vip": 99
+    },
+    "VIPCooldowns": {
+      "nteleportation.vip": 1
+    },
+    "VIPCountdowns": {
+      "nteleportation.vip": 1
+    },
+    "Location": "0 0 0",
+    "UsableOutOfBuildingBlocked": false,
+    "AllowCraft": false,
+    "Pay": 0
+  },
+  "Version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 21
+  }
+}

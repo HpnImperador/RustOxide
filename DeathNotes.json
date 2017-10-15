@@ -1,0 +1,289 @@
+{
+  "Attachments": {
+    "4x Zoom Scope": "4x Scope",
+    "Holosight": "Holo",
+    "Muzzle Boost": "Muzzle Boost",
+    "Muzzle Brake": "Muzzle Brake",
+    "Silencer": "Silenciador",
+    "Simple Handmade Sight": "Simple Handmade Sight",
+    "Weapon Flashlight": "Lanterna",
+    "Weapon Lasersight": "Mira laser"
+  },
+  "Bodyparts": {
+    "body": "corpo",
+    "Body": "Body",
+    "chest": "peito",
+    "Chest": "Chest",
+    "groin": "virilha",
+    "head": "cabeça",
+    "Head": "Head",
+    "hip": "quadril",
+    "Hip": "Hip",
+    "jaw": "mandíbula",
+    "Jaw": "Jaw",
+    "left arm": "braço",
+    "Left Arm": "Left Arm",
+    "left eye": "olho",
+    "left foot": "pe",
+    "left forearm": "antebraço",
+    "Left Forearm": "Left Forearm",
+    "left hand": "mao",
+    "Left Hand": "Left Hand",
+    "left knee": "joelho",
+    "left ring finger": "dedo",
+    "left shoulder": "ombro",
+    "Left Shoulder": "Left Shoulder",
+    "left thumb": "polegar",
+    "left toe": "polegar",
+    "left wrist": "pulso",
+    "lower spine": "espinha",
+    "Lower Spine": "Lower Spine",
+    "neck": "pescoço",
+    "Neck": "Neck",
+    "pelvis": "pélvis",
+    "Pelvis": "Pelvis",
+    "right arm": "braço",
+    "Right Arm": "Right Arm",
+    "right eye": "olho",
+    "right foot": "pé",
+    "right forearm": "antebraço",
+    "Right Forearm": "Right Forearm",
+    "right hand": "mão",
+    "Right Hand": "Right Hand",
+    "right knee": "joelho",
+    "Right Knee": "Right Knee",
+    "right ring finger": "dedo",
+    "right shoulder": "ombro",
+    "Right Shoulder": "Right Shoulder",
+    "right thumb": "polegar",
+    "right toe": "polegar",
+    "right wrist": "pulso",
+    "stomach": "estômago",
+    "Stomach": "Stomach"
+  },
+  "Messages": {
+    "Animal": [
+      "Um {attacker} matou {victim}"
+    ],
+    "Animal Sleeping": [
+      "Um {attacker} matou {victim}"
+    ],
+    "AnimalDeath": [
+      "Um {attacker} matou {victim} Arma: {weapon} acessório: {attachments} distância: {distance}m."
+    ],
+    "Bleeding": [
+      "{victim} Ele morreu de perda de sangue."
+    ],
+    "Blunt": [
+      "Morte: {attacker} Arma: {weapon} moribundo:{victim}"
+    ],
+    "Blunt Sleeping": [
+      "Morte: {attacker} Arma: {weapon} moribundo: {victim}"
+    ],
+    "Bullet": [
+      "Morte: {attacker} Arma: {weapon} acessório: {attachments} distância: {distance}m moribundo: {victim} região: {bodypart} "
+    ],
+    "Bullet Sleeping": [
+      "Morte: {attacker} Arma: {weapon} acessório: {attachments} distância: {distance}m moribundo: {victim} região: {bodypart}"
+    ],
+    "Cold": [
+      "{victim} congelou até a morte."
+    ],
+    "Drowned": [
+      "{victim} morreu por afogamento."
+    ],
+    "Explosion": [
+      "Morte: {attacker} Arma: {weapon} moribundo: {victim}"
+    ],
+    "Explosion Sleeping": [
+      "Morte: {attacker} Arma: {weapon} moribundo: {victim}"
+    ],
+    "Fall": [
+      "{victim} morreu em uma queda."
+    ],
+    "Flamethrower": [
+      "Morte: {attacker} moribundo: {victim} Arma: {weapon}."
+    ],
+    "Flamethrower Sleeping": [
+      "Morte: {attacker} moribundo: {victim} Arma: {weapon}."
+    ],
+    "Generic": [
+      "{victim} morreu."
+    ],
+    "Generic Sleeping": [
+      "{victim} morreu durante o sono."
+    ],
+    "Heat": [
+      "{victim} queimou até a morte."
+    ],
+    "Helicopter": [
+      "Morte: {attacker} moribundo: {victim}."
+    ],
+    "Helicopter Sleeping": [
+      "Morte: {attacker} moribundo: {victim}"
+    ],
+    "HelicopterDeath": [
+      "{victim} caiu."
+    ],
+    "Hunger": [
+      "{victim} morreu de fome."
+    ],
+    "Poison": [
+      "{victim} morreu envenenado."
+    ],
+    "Radiation": [
+      "{victim} morreu devido à radiação."
+    ],
+    "Slash": [
+      "Morte: {attacker} moribundo: {victim}"
+    ],
+    "Slash Sleeping": [
+      "Morte: {attacker} moribundo: {victim}"
+    ],
+    "Stab": [
+      "Morte: {attacker} Arma: {weapon} moribundo: {victim}"
+    ],
+    "Stab Sleeping": [
+      "Morte: {attacker} Arma: {weapon} moribundo: {victim}"
+    ],
+    "Structure": [
+      "Morte: {attacker} moribundo: {victim}"
+    ],
+    "Suicide": [
+      "{victim} cometeu suicídio."
+    ],
+    "Thirst": [
+      "{victim} morreu."
+    ],
+    "Trap": [
+      "Morte: {attacker} moribundo: {victim}"
+    ],
+    "Turret": [
+      "AMorte: {attacker} moribundo: {victim}."
+    ],
+    "Unknown": [
+      "{victim} bilinmeyen bir sebeple öldü."
+    ],
+    "Unknown Sleeping": [
+      "{victim} morreu por razões desconhecidas."
+    ]
+  },
+  "Names": {
+    "Auto Turret": "Turret Auto",
+    "Barbed Wooden Barricade": "Barbed Wooden Barricade",
+    "bear": "Urso",
+    "boar": "javali",
+    "chicken": "galinha",
+    "High External Stone Wall": "High External Stone Wall",
+    "High External Wooden Wall": "High External Wooden Wall",
+    "horse": "cavalo",
+    "Land Mine": "Land Mine",
+    "Metal Barricade": "Metal Barricade",
+    "No Attacker": "No Attacker",
+    "patrolhelicopter": "Helikopter",
+    "Snap Trap": "Snap Trap",
+    "stag": "veado",
+    "wolf": "lobo",
+    "Wooden Barricade": "Wooden Barricade",
+    "Wooden Floor Spikes": "Wooden Floor Spikes"
+  },
+  "Settings": {
+    "Attachments Color": "#C4FF00",
+    "Attachments Formatting": " ({attachments})",
+    "Attachments Split": " | ",
+    "Attacker Color": "green",
+    "Bodypart Color": "#C4FF00",
+    "Chat Icon (SteamID)": "76561198077847400",
+    "Console Formatting": "{Message}",
+    "Distance Color": "#C4FF00",
+    "Formatting": "[{Title}]: {Message}",
+    "Health Color": "#C4FF00",
+    "Log to File": false,
+    "Message Color": "#696969",
+    "Message Radius": 300,
+    "Message Radius Enabled": false,
+    "Needs Permission": false,
+    "Simple UI - Font Size": 20,
+    "Simple UI - Left": 0.1,
+    "Simple UI - Max Height": 0.05,
+    "Simple UI - Max Width": 0.8,
+    "Simple UI - Top": 0.1,
+    "Simple UI Hide Timer": 5,
+    "Strip Colors from Simple UI": false,
+    "Title": "Nota de Morte",
+    "Title Color": "#80D000",
+    "Use Popup Notifications": false,
+    "Use Simple UI": false,
+    "Victim Color": "red",
+    "Weapon Color": "#C4FF00",
+    "Write to Chat": true,
+    "Write to Console": true
+  },
+  "Weapons": {
+    "Ak47u": "Ak47u",
+    "Assault Rifle": "Assault Rifle",
+    "Beancan Grenade": "Beancan Grenade",
+    "Bolt Action Rifle": "Bolt Action Rifle",
+    "Bolt Rifle": "Bolt Rifle",
+    "Bone Club": "Bone Club",
+    "Bone Knife": "Bone Knife",
+    "Bow Hunting": "Bow Hunting",
+    "Crossbow": "Crossbow",
+    "Custom SMG": "Custom SMG",
+    "Double Barrel Shotgun": "Double Barrel Shotgun",
+    "Eoka Pistol": "Eoka Pistol",
+    "Explosivesatchel": "Explosivesatchel",
+    "F1 Grenade": "F1 Grenade",
+    "Flamethrower": "Flamethrower",
+    "Flameturret": "Flameturret",
+    "Hatchet": "Hatchet",
+    "Hunting Bow": "Hunting Bow",
+    "Landmine": "Landmine",
+    "Longsword": "Longsword",
+    "Lr300": "Lr300",
+    "LR-300 Assault Rifle": "LR-300 Assault Rifle",
+    "M249": "M249",
+    "M92": "M92",
+    "M92 Pistol": "M92 Pistol",
+    "Mace": "Mace",
+    "Machete": "Machete",
+    "Mp5": "Mp5",
+    "MP5A4": "MP5A4",
+    "No Weapon": "No Weapon",
+    "Pick Axe": "Pick Axe",
+    "Pickaxe": "Pickaxe",
+    "Pistol Revolver": "Pistol Revolver",
+    "Pistol Semiauto": "Pistol Semiauto",
+    "Pump Shotgun": "Pump Shotgun",
+    "Python": "Python",
+    "Python Revolver": "Python Revolver",
+    "Revolver": "Revolver",
+    "Rock": "Rock",
+    "Rocket Basic": "Rocket Basic",
+    "Rocket Fire": "Rocket Fire",
+    "Rocket Heli": "Rocket Heli",
+    "Rocket Heli Napalm": "Rocket Heli Napalm",
+    "Rocket Hv": "Rocket Hv",
+    "Salvaged Axe": "Salvaged Axe",
+    "Salvaged Cleaver": "Salvaged Cleaver",
+    "Salvaged Hammer": "Salvaged Hammer",
+    "Salvaged Icepick": "Salvaged Icepick",
+    "Salvaged Sword": "Salvaged Sword",
+    "Semi Auto Rifle": "Semi Auto Rifle",
+    "Semi-Automatic Pistol": "Semi-Automatic Pistol",
+    "Semi-Automatic Rifle": "Semi-Automatic Rifle",
+    "Shotgun Pump": "Shotgun Pump",
+    "Shotgun Waterpipe": "Shotgun Waterpipe",
+    "Smg": "Smg",
+    "Stone Hatchet": "Stone Hatchet",
+    "Stone Pick Axe": "Stone Pick Axe",
+    "Stone Pickaxe": "Stone Pickaxe",
+    "Stone Spear": "Stone Spear",
+    "Survey Charge": "Survey Charge",
+    "Thompson": "Thompson",
+    "Timed Explosive": "Timed Explosive",
+    "Torch": "Torch",
+    "Waterpipe Shotgun": "Waterpipe Shotgun",
+    "Wooden Spear": "Wooden Spear"
+  }
+}

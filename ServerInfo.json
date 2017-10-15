@@ -1,0 +1,492 @@
+{
+  "settings": {
+    "Tabs": [
+      {
+        "ButtonText": "Regras Gerais",
+        "HeaderText": "Estas são algumas das regras que devem ser seguidas no servidor",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "1. É proibido, insultar, xingar ou usar qualquer tipo de assédio a outros jogadores.",
+              "Isso resultará em chat-mute.",
+              "",
+              "2. Não faça spam de qualquer forma, de spam para bate-papo / tpa spam, etc.",
+              "Isto irá resultar em uma advertência, depois em proibições temporárias.",
+              "",
+              "3. Não explorar falhas e bugs do jogo, isso irá resultar em banimento.",
+              "Se você encontrar um bugs ou falhas, por favor informe-nos.",
+              "",
+              "4. Nunca forneça sua senha! Os membros da STAFF não precisa de sua senha!",
+              "Se alguma vez tiver problemas com alguém tentando obter sua senha,",
+              "por favor denuncie contatando o Admin.",
+              "",
+              "5. Não use contas hackeadas. Não utilize programas facilitadores e outras",
+              "modificações. Isso resultará banimento",
+              "",
+              "6. É proibido pedir qualquer tipo de auxilio aos membros da staff.",
+              "Ex.: teleport, itens, mudar horário on game",
+              ""
+            ],
+            "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "",
+              "",
+              "7. Não faça propaganda de outros servidores dentro do nosso servidor.",
+              "Sua ID-Steam e IP serão banido permanentemente do servidor sem recursos.",
+              "",
+              "8. Não desrespeitar os membros da STAFF, a punição é uma advertência,",
+              "a segunda proibição temporária e seu chat mutado, a terceira proibição",
+              "de ofensa é kickado do server.",
+              "",
+              "9. Não hackear outras contas de usuários. Isso resultará em banimento",
+              "permanentemente do servidor. Este é um delito grave e não é tolerado.",
+              "",
+              "10. Não abuse com facções ou Clans grandes e fortes, por matar outros",
+              "jogadores várias vezes de propósito. Isto irá resultar em uma proibição.",
+              "O limite de players dentro de um clan neste server é 5.",
+              "",
+              "11. Como o servidor é limitado a 100 players, é proibido guardar vaga,",
+              "jogadores que estiverem afk serão kickados por inatividade.",
+              "",
+              "14.Perfil steam [PRIVADO] é considerado proibido neste server.",
+              "Isso resultará em banimento"
+            ],
+            "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "",
+              "_______________________________________________________________________________",
+              "Nenhum membro da staff irá usar a sua autoridade ou comandos de adm enquanto",
+              "estiver logado como player, jogando normalmente. Caso isso ocorra, envie denuncia",
+              "aos outros membros da STAFF.",
+              "",
+              "E lembrem-se, isto é apenas um jogo. DIVIRTAM-SE",
+              ""
+            ],
+            "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "",
+              "Use o chat se necessário - evite ser mutado",
+              "SLOT VIP, DOAÇÕES - CONTATE ADM OU",
+              "ACESSE RUST-LIFE.COM.BR",
+              "",
+              "Equipe Rust-Life Brasil - rust-life.com.br",
+              "Teamspeak 3 Server acesse: ca5.ts3.cloud:10715",
+              ""
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 20,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Iniciantes",
+        "HeaderText": "Informações básicas para Iniciantes",
+        "Pages": [
+          {
+            "TextLines": [
+              " ",
+              "Todo iniciante neste server recebe uma quantia na conta (ver saldo /saldo)",
+              "->Recompensa: Matar Urso $ 275.00, Javali $ 125.00, Galinha $ 75.00, Lobo $ 125.00, Cavalo $ 225.00, Viado $ 25.00",
+              "Matar Membro do Clan ou amigo perde $ 25.00, matar Player ganha $ 120.00",
+              "Minerar minérios, pedra e madeira ganha $ 3.00/t",
+              " ",
+              "Para usar seu kit básico use no chat o seguinte comando:",
+              "/kit starter, comando para receber um kit basico inicial",
+              "Você tem 5 kits, use com sabedoria, não haverá outros.",
+              "",
+              "Equipe Rust-Life Brasil - rust-life.com.br",
+              ""
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 20,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Comandos",
+        "HeaderText": "Informações de como usar os Comandos",
+        "Pages": [
+          {
+            "TextLines": [
+              "AutoDoors - Fecha automaticamente as portas - ",
+              "/ad",
+              "Desativa o AutoDoors",
+              "/ad # (um número entre 0 e 10)",
+              "Define o atraso do fechamento automático",
+              "",
+              "Backpacks - Mochilas que proporcionam espaço extra de inventário virtual.",
+              "Disponível para Doadores",
+              "",
+              "Bank - Dá aos jogadores uma caixa segura para depositar seus itens.",
+              "Disponível para Doadores",
+              "",
+              "Building Grades",
+              "permite atualizar ou degradar um edifício inteiro por um grau",
+              "em relação ao grau atual de cada bloco de construção.",
+              "/Up [grau] [filtro] - atualizar cada bloco",
+              "/Down [grau] [filtro] - Downgrade de cada bloco",
+              "Disponível para Doadores",
+              ""
+            ],
+            "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "Clans - extenso sistema de clãs - use /clan help",
+              "",
+              "Economics - Sistema econômico",
+              "/saldo [verifique seu saldo]",
+              "/transferir <nome> <valor> - [transferir valor para outro jogador]",
+              "",
+              "FriendlyFire - Ativar / desativar fogo amigável - use /ff [on/off]",
+              "",
+              "Friends",
+              "/friend <add | ou remove | -> <nome ou steamID> para adicionar ou remover alguém",
+              "/friend list - para listar seus amigos",
+              "",
+              "GUIShop - Loja use /shop - para comprar e vender itens",
+              "",
+              "Kits - Kits personalizados use /kit <nome kit>",
+              "/kit starter, comando para receber um kit basico inicial",
+              "Você tem 5 kits, use com sabedoria, não haverá outros.",
+              " ",
+              "",
+              "MagazinBoost",
+              ""
+            ],
+            "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "NTeleportation - use /tphelp - Mostra ajuda",
+              "/tpr 'nome do player', comando para pedir teleporte para outro player",
+              "/tpa, comando para aceitar o teleporte feito por outro player",
+              "/sethome 'nome ou numero da home', comando para salvar local como sua casa",
+              "/home 'nome ou numero da home', comando para se teleportar para sua casa",
+              " ",
+              "QuickSmelt - velocidade de cozimento e fundição alterada",
+              "",
+              "QuickSort",
+              "Os jogadores podem escolher o tipo de itens que querem colocar no bau",
+              "ou mesmo pilhar todos os itens do recipiente",
+              "",
+              "Recycle - Permite aos jogadores reciclar itens criados para basear recursos",
+              "",
+              "RemoverTool - use /remove - comando para retirar construções",
+              "ou objetos onde você tenha permissão para construir.",
+              ""
+            ],
+            "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "RestoreUponDeath",
+              "Salva o inventário do jogador quando ele morrem",
+              "e remova uma porcentagem dos itens do cadáver.",
+              "Quando o jogador respawna será dado o seus itens de volta menos a percentagem perdida",
+              "Jogador normal - retorna 25%",
+              "Doadores 30%/50%/70%",
+              "",
+              "Sign Artist - Permite carregar imagens personalizadas em placas",
+              "Disponível para Doadores",
+              "",
+              "Stack Size Controller - Controlador de tamanho de pilhagem /slot",
+              "",
+              "Trade - Permite que dois jogadores façam troca de itens com segurança a uma distância.",
+              "/trade <parte do nome do player> - para enviar solicitação",
+              "/trade accept - Aceitar pedido de troca.",
+              "",
+              "TurboGather",
+              "Permita um aumento de taxa de arrecadação de recursos por um determinado período de tempo.",
+              "Disponível para Doadores",
+              "",
+              "ZLevelsRemastered - um aumento de taxa de arrecadação de recursos por Skill",
+              ""
+            ],
+            "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "Equipe Rust-Life Brasil - rust-life.com.br",
+              ""
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 20,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Recompensas",
+        "HeaderText": ">Recompensa:",
+        "Pages": [
+          {
+            "TextLines": [
+              "Matar Urso $ 275.00, Javali $ 125.00,",
+              "Galinha $ 75.00, Lobo $ 125.00,",
+              "Cavalo $ 225.00, Viado $ 25.00",
+              "Matar Membro do Clan ou amigo perde $ 25.00",
+              "Matar Player ganha $ 120.00",
+              "Minerar minérios, pedra e madeira ganha $ 3.00/t",
+              " ",
+              "Para ver seu saldo use /saldo",
+              " "
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 20,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "VIP",
+        "HeaderText": "Torne-se VIP e ajude o servidor",
+        "Pages": [
+          {
+            "TextLines": [
+              " ",
+              "Para informações de como se tornar um VIP,",
+              "contate um ADM ou",
+              "Acesse nosso site: rust-life.com.br",
+              " ",
+              "Obrigado por jogar conosco!",
+              "Equipe Rust-Life Brasil - rust-life.com.br",
+              " "
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.5,
+                  "MaxX": 1.0,
+                  "MinY": 0.5,
+                  "MaxY": 1.0
+                },
+                "Url": "http://rust-life.com.br/content/images/thumbs/0000184.png",
+                "TransparencyInPercent": 60
+              }
+            ]
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 20,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Atualizações",
+        "HeaderText": "Informações sobre Wipe/Atualizações",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "",
+              "Para informações sobre o jogo acesse:",
+              " ",
+              "http://playrust.com/",
+              " ",
+              "Este servidor executa os wipes oficiais, que geralmente",
+              "ocorrem 2(duas) vezes ao mês.",
+              " ",
+              "Equipe Rust-Life Brasil - rust-life.com.br",
+              ""
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.5,
+                  "MaxX": 1.0,
+                  "MinY": 0.5,
+                  "MaxY": 1.0
+                },
+                "Url": "http://www.proforma.net.br/wp-content/uploads/2017/04/rust___friendly_by_rod_wolf-d7obg3q.jpg",
+                "TransparencyInPercent": 100
+              }
+            ]
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 20,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "EVENTOS",
+        "HeaderText": "Servidor com Eventos agendados",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "Os Eventos ocorrem automaticamente e são anunciados no chat.",
+              "Use o comando /event join - para entrar na Arena e participar do Evento",
+              "",
+              "",
+              ""
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.5,
+                  "MaxX": 1.0,
+                  "MinY": 0.5,
+                  "MaxY": 1.0
+                },
+                "Url": "http://oxidemod.org/data/resource_icons/1/1464.jpg",
+                "TransparencyInPercent": 10
+              }
+            ]
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 20,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Trade",
+        "HeaderText": "Tranferência e negociação de Itens",
+        "Pages": [
+          {
+            "TextLines": [
+              "Digite <color=lime> /trade <nome player> </color> para solicitar uma transação",
+              "Digite <color=lime> /trade accept </color> para começar a transação",
+              ""
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.5,
+                  "MaxX": 1.0,
+                  "MinY": 0.5,
+                  "MaxY": 1.0
+                },
+                "Url": "http://oxidemod.org/data/resource_icons/1/1242.jpg",
+                "TransparencyInPercent": 10
+              }
+            ]
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 20,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Banco",
+        "HeaderText": "Banco de Itens Rust-Life",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "Banco de 5 slots - de 15 slots e 30 Slots",
+              "",
+              "Backpacks de 6 - 12 e 30 Slots",
+              "",
+              "Acesse Rust-life.com.br",
+              "",
+              ""
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.5,
+                  "MaxX": 1.0,
+                  "MinY": 0.5,
+                  "MaxY": 1.0
+                },
+                "Url": "http://oxidemod.org/data/resource_icons/1/1331.jpg",
+                "TransparencyInPercent": 10
+              }
+            ]
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 20,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      }
+    ],
+    "ShowInfoOnPlayerInit": true,
+    "ShowInfoOnlyOncePerRuntime": true,
+    "TabToOpenByDefault": 0,
+    "Position": {
+      "MinX": 0.15,
+      "MaxX": 0.9,
+      "MinY": 0.2,
+      "MaxY": 0.9
+    },
+    "BackgroundImage": {
+      "Enabled": true,
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 1.0,
+        "MinY": 0.0,
+        "MaxY": 1.0
+      },
+      "Url": "http://www.proforma.net.br/wp-content/uploads/2015/11/textured-backgrounds.jpg",
+      "TransparencyInPercent": 20
+    },
+    "ActiveButtonColor": "#000000",
+    "InactiveButtonColor": "#7F7F7FFF",
+    "CloseButtonColor": "#7F7F7FFF",
+    "NextPageButtonColor": "#7F7F7FFF",
+    "PrevPageButtonColor": "#7F7F7FFF",
+    "BackgroundColor": "#000000FF",
+    "HelpButton": {
+      "IsEnabled": false,
+      "Text": "Help",
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 0.05,
+        "MinY": 0.1,
+        "MaxY": 0.14
+      },
+      "Color": "#7F7F7FFF",
+      "FontSize": 18
+    },
+    "UpgradedConfig": true
+  }
+}

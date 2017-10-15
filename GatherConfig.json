@@ -1,0 +1,182 @@
+{
+  "Version": 1980,
+  "VersionConfig": 1,
+  "Prefabs": {
+    "assets/bundled/prefabs/autospawn/resource/beachside-deadtrees/deadtree-1.prefab": {
+      "Items": [
+        {
+          "Shortname": "wood",
+          "Amount": 750.0
+        }
+      ]
+    },
+    "assets/bundled/prefabs/autospawn/resource/beachside-deadtrees/deadtree-2.prefab": {
+      "Items": [
+        {
+          "Shortname": "wood",
+          "Amount": 750.0
+        }
+      ]
+    },
+    "assets/bundled/prefabs/autospawn/resource/beachside-deadtrees/field-bare-1.prefab": {
+      "Items": [
+        {
+          "Shortname": "wood",
+          "Amount": 100.0
+        }
+      ]
+    },
+    "assets/bundled/prefabs/autospawn/resource/beachside-deadtrees/field-bare-2.prefab": {
+      "Items": [
+        {
+          "Shortname": "wood",
+          "Amount": 100.0
+        }
+      ]
+    },
+    "assets/bundled/prefabs/autospawn/resource/beachside-deadtrees/field-bare-3.prefab": {
+      "Items": [
+        {
+          "Shortname": "wood",
+          "Amount": 100.0
+        }
+      ]
+    },
+    "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab": {
+      "Items": [
+        {
+          "Shortname": "stones",
+          "Amount": 500.0
+        },
+        {
+          "Shortname": "sulfur.ore",
+          "Amount": 25.0
+        },
+        {
+          "Shortname": "metal.ore",
+          "Amount": 500.0
+        },
+        {
+          "Shortname": "hq.metal.ore",
+          "Amount": 3.0
+        }
+      ]
+    },
+    "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab": {
+      "Items": [
+        {
+          "Shortname": "stones",
+          "Amount": 500.0
+        },
+        {
+          "Shortname": "sulfur.ore",
+          "Amount": 25.0
+        },
+        {
+          "Shortname": "metal.ore",
+          "Amount": 100.0
+        },
+        {
+          "Shortname": "hq.metal.ore",
+          "Amount": 1.0
+        }
+      ]
+    },
+    "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab": {
+      "Items": [
+        {
+          "Shortname": "stones",
+          "Amount": 500.0
+        },
+        {
+          "Shortname": "sulfur.ore",
+          "Amount": 200.0
+        },
+        {
+          "Shortname": "metal.ore",
+          "Amount": 50.0
+        },
+        {
+          "Shortname": "hq.metal.ore",
+          "Amount": 1.0
+        }
+      ]
+    },
+    "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab": {
+      "Items": [
+        {
+          "Shortname": "stones",
+          "Amount": 500.0
+        },
+        {
+          "Shortname": "sulfur.ore",
+          "Amount": 25.0
+        },
+        {
+          "Shortname": "metal.ore",
+          "Amount": 500.0
+        },
+        {
+          "Shortname": "hq.metal.ore",
+          "Amount": 3.0
+        }
+      ]
+    },
+    "assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab": {
+      "Items": [
+        {
+          "Shortname": "stones",
+          "Amount": 500.0
+        },
+        {
+          "Shortname": "sulfur.ore",
+          "Amount": 25.0
+        },
+        {
+          "Shortname": "metal.ore",
+          "Amount": 100.0
+        },
+        {
+          "Shortname": "hq.metal.ore",
+          "Amount": 1.0
+        }
+      ]
+    },
+    "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab": {
+      "Items": [
+        {
+          "Shortname": "stones",
+          "Amount": 500.0
+        },
+        {
+          "Shortname": "sulfur.ore",
+          "Amount": 200.0
+        },
+        {
+          "Shortname": "metal.ore",
+          "Amount": 50.0
+        },
+        {
+          "Shortname": "hq.metal.ore",
+          "Amount": 1.0
+        }
+      ]
+    },
+    "assets/prefabs/player/player_corpse.prefab": {
+      "Items": [
+        {
+          "Shortname": "humanmeat.raw",
+          "Amount": 5.0
+        },
+        {
+          "Shortname": "bone.fragments",
+          "Amount": 10.0
+        },
+        {
+          "Shortname": "skull.human",
+          "Amount": 1.0
+        }
+      ]
+    }
+  }
+}

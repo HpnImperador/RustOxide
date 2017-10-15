@@ -1,0 +1,83 @@
+{
+  "MainSettings": {
+    "Sleep at night": true,
+    "Sleep start time": 23,
+    "Sleep end time": 7,
+    "Passive animals run away when they take damage": true,
+    "Radius to find target": 20,
+    "Remove all scientists": false,
+    "ConfigVersion": "1.1.3"
+  },
+  "AnimalsSettings": {
+    "Bear": {
+      "speed": 1.9,
+      "boostSpeed": 2.2,
+      "health": 400.0,
+      "armor": 0.0,
+      "damage": 25.0,
+      "agressive": false,
+      "attackAnimals": false,
+      "attackRange": 2.0
+    },
+    "Wolf": {
+      "speed": 2.1,
+      "boostSpeed": 2.4,
+      "health": 150.0,
+      "armor": 0.0,
+      "damage": 25.0,
+      "agressive": false,
+      "attackAnimals": false,
+      "attackRange": 2.0
+    },
+    "Stag": {
+      "speed": 1.9,
+      "boostSpeed": 2.85,
+      "health": 150.0,
+      "armor": 0.0,
+      "damage": 20.0,
+      "agressive": false,
+      "attackAnimals": false,
+      "attackRange": 2.0
+    },
+    "Boar": {
+      "speed": 1.3,
+      "boostSpeed": 1.95,
+      "health": 150.0,
+      "armor": 0.0,
+      "damage": 20.0,
+      "agressive": false,
+      "attackAnimals": false,
+      "attackRange": 2.0
+    },
+    "Chicken": {
+      "speed": 0.6,
+      "boostSpeed": 0.9,
+      "health": 25.0,
+      "armor": 0.0,
+      "damage": 5.0,
+      "agressive": false,
+      "attackAnimals": false,
+      "attackRange": 0.8
+    },
+    "Horse": {
+      "speed": 2.0,
+      "boostSpeed": 2.3,
+      "health": 500.0,
+      "armor": 0.0,
+      "damage": 25.0,
+      "agressive": false,
+      "attackAnimals": false,
+      "attackRange": 2.0
+    },
+    "Zombie": {
+      "speed": 1.5,
+      "boostSpeed": 1.7,
+      "health": 150.0,
+      "armor": 0.0,
+      "damage": 10.0,
+      "agressive": false,
+      "attackAnimals": false,
+      "attackRange": 2.0
+    }
+  }
+}

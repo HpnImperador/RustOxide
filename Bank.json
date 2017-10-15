@@ -1,0 +1,24 @@
+{
+  "Settings": {
+    "boxes": {
+      "bank.big": "assets/prefabs/deployable/large wood storage/box.wooden.large.prefab",
+      "bank.default": "assets/prefabs/deployable/large wood storage/box.wooden.large.prefab"
+    },
+    "cooldownMinutes": -1,
+    "defaultBox": "assets/prefabs/deployable/large wood storage/box.wooden.large.prefab",
+    "defaultSlots": 15,
+    "keyring": true,
+    "NPCBankersOnly": false,
+    "NPCIDs": [],
+    "radiationMax": 1.0,
+    "slots": {
+      "bank.adm": 30,
+      "bank.big": 30,
+      "bank.default": 15,
+      "bank.elite": 30,
+      "bank.gold": 30,
+      "bank.vip": 30
+    }
+  },
+  "VERSION": "0.1.0"
+}

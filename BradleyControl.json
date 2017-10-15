@@ -1,0 +1,68 @@
+{
+  "options": {
+    "bradleyEnabled": true,
+    "bradleyAverage": 1,
+    "respawnDelay": -1.0,
+    "despawnDelay": -1.0,
+    "startHealth": 2500.0,
+    "maxTurretRange": 300.0,
+    "gunAccuracy": 1.0,
+    "gunDamage": 1.0,
+    "speed": 1.5,
+    "targetsNakeds": true,
+    "ammoDoesDamage": false,
+    "maxLootCrates": 4,
+    "customLootTables": false,
+    "enableNapalm": true,
+    "napamWaterRequired": -1,
+    "lootAccessDelay": -1.0,
+    "enableGibs": true,
+    "gibsHotDelay": -1.0,
+    "gibsHealth": 1000.0,
+    "disableStartSearch": false
+  },
+  "lootTables": {
+    "bradleyCrate": {
+      "rifle.ak": [
+        "1",
+        "1",
+        "3"
+      ],
+      "ammo.rifle.hv": [
+        "500",
+        "1",
+        "3"
+      ],
+      "ammo.rifle.explosive": [
+        "200",
+        "1",
+        "3"
+      ],
+      "ammo.rocket.basic": [
+        "2",
+        "0",
+        "1"
+      ],
+      "ammo.rocket.fire": [
+        "2",
+        "0",
+        "2"
+      ],
+      "ammo.rocket.hv": [
+        "2",
+        "0",
+        "2"
+      ],
+      "explosive.timed": [
+        "2",
+        "0",
+        "10"
+      ]
+    }
+  },
+  "targetable": {
+    "mostClothing": 2,
+    "targetable": [],
+    "nonTargetable": []
+  }
+}

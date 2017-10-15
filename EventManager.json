@@ -1,0 +1,20 @@
+{
+  "Messaging": {
+    "AnnounceEvent": true,
+    "AnnounceEvent_During": true,
+    "AnnounceEvent_Interval": 60,
+    "MainColor": "#FF8C00",
+    "MsgColor": "#939393"
+  },
+  "Options": {
+    "AllowClassSelectionOnDeath": true,
+    "Battlefield_Timer": 1200,
+    "DropCorpseOnDeath": false,
+    "EventPrestartTimer": 10,
+    "LaunchAutoEventsOnStartup": true,
+    "Required_AuthLevel": 1,
+    "UseEconomicsAsTokens": true,
+    "UseEventPrestart": true,
+    "UseSpectateMode": true
+  }
+}

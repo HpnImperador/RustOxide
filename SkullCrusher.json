@@ -1,0 +1,13 @@
+{
+  "Economy": {
+    "Money Per Skull Crush": 20.0,
+    "Send Notification Message": true,
+    "Use Economy": false
+  },
+  "Settings": {
+    "Give items on crush": true,
+    "Normal Crush Message": true,
+    "Null Owner Crush Message": true,
+    "Own Skull Crush Message": true
+  }
+}
